@@ -7,7 +7,7 @@
 |         | 021            | تهران (شهرستان ها) | 1200        | 12 | tehran-shahrestanha |
 |         | ***            | استان های متفرقه   | 1400        | 14 | ostanha-motefarege |
 |         | 086            | مرکزی              | 1500        | 15 | markazi        |
-|         | 056            | خراسان رضوی        | 1600        | 16 | khorasan-razavi|
+|         | 051            | خراسان رضوی        | 1600        | 16 | khorasan-razavi|
 |         | 031            | اصفهان             | 1700        | 17 | esfahan        |
 |         | 041            | آذربایجان شرقی     | 1800        | 18 | azarbayjan-sharghi |
 |         | 045            | اردیبل             | 1900        | 19 | ardabil        |
